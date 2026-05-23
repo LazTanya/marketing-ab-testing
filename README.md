@@ -180,6 +180,3 @@ marketing-ab-test/
 │   └── ab_analysis.ipynb        # Full analysis — Acts 1 through 5
 ├── data/
 │   └── marketing_ab_data.csv         # Raw dataset (from Kaggle)
-└── visuals/
-    ├── 01_conversion_by_group.png
-    ├── 02_ad_exposure_distribution.png
